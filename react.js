@@ -1,5 +1,5 @@
 /**
- * AlloyTeam ESLint 规则
+ * 根据 AlloyTeam ESLint 修改的规则
  * https://alloyteam.github.io/eslint-config-alloy/
  *
  * 贡献者：

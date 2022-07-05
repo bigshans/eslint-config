@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-alloy",
-  "version": "4.6.2",
-  "description": "AlloyTeam ESLint 规则",
+  "name": "@bigshans/eslint-config-alloy",
+  "version": "1.0.0",
+  "description": "根据 AlloyTeam ESLint 修改的规则",
   "keywords": [
     "eslint",
     "eslintrc",
